@@ -1,1 +1,1 @@
-flag{Runwal_Bliss}
+NICCTF26{Runwal_Bliss}
